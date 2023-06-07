@@ -10,8 +10,7 @@ Options:<br>
 2. Multi Domain Assessments<br>
 3. Multi Domain Recon<br>
 4. Blackhat Attacker<br>
-5. Automate XSS Attack<br>
-6. Install Requirements<br>
+5. Install Requirements<br>
 
 # Required Tools 
 1. dnsx: github.com/projectdiscovery/dnsx <br>
